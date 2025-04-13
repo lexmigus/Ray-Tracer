@@ -1,5 +1,3 @@
-All requirements have been completed, all 12 test images run
-
 To compile, call make
 
 Alternatively, g++ -std=c++17 raytrace.cpp -o RayTracer
